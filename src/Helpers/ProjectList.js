@@ -4,7 +4,7 @@ import Live from "../Images/Live.PNG"
 
 export const ProjectList = [
     {
-        name: "Todo List Website",
+        name: "Todo List Website" ,
         image: TodoList ,
         skills:"Html,Css,JavaScript,React,Material-Ui"
     },
